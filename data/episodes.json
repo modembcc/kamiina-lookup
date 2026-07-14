@@ -38,7 +38,7 @@
           "englishName": "jumangoku manju",
           "image": "https://m.media-amazon.com/images/I/51CKBM7bTNL._AC_.jpg",
           "type": "Snack",
-          "abv": "n.a",
+          "abv": "N/A",
           "brand": "Jumangoku Fukusaya (十万石ふくさや)",
           "origin": "Gyoda, Saitama, Japan",
           "jpStores": [
@@ -237,8 +237,8 @@
           "englishName": "Salty Dog",
           "image": "https://boulderlocavore.com/wp-content/uploads/2018/01/Salty-Dog-cocktail-title-image.jpg",
           "type": "Cocktail",
-          "abv": "N.A.",
-          "brand": "N.A.",
+          "abv": "N/A",
+          "brand": "N/A",
           "origin": "N.A. (classic cocktail, no fixed origin)",
           "jpStores": [{ "name": "", "url": "" }],
           "sgStores": [{ "name": "", "url": "" }]
@@ -248,8 +248,8 @@
           "englishName": "Cosmopolitan",
           "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cosmopolitan_%285076906532%29.jpg",
           "type": "Cocktail",
-          "abv": "N.A.",
-          "brand": "N.A.",
+          "abv": "N/A",
+          "brand": "N/A",
           "origin": "United States",
           "jpStores": [{ "name": "", "url": "" }],
           "sgStores": [{ "name": "", "url": "" }]
@@ -359,12 +359,45 @@
       "alcohols": [
         {
           "japaneseName": "",
-          "englishName": "",
-          "image": "",
-          "type": "",
-          "abv": "",
-          "brand": "",
-          "origin": "",
+          "englishName": "Earl Grey Highball",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsyoETZVIErbfprBgj_AgDQkFdvtg4CGdgJU_x1bzZQqUq4eMgbf5lw2k&s=10",
+          "type": "Cocktail",
+          "abv": "N/A",
+          "brand": "N/A",
+          "origin": "N.A. (recipe-style drink, no fixed brand/origin)",
+          "jpStores": [{ "name": "", "url": "" }],
+          "sgStores": [{ "name": "", "url": "" }]
+        },
+        {
+          "japaneseName": "",
+          "englishName": "Kavalan Classic",
+          "image": "https://www.kavalanwhisky.com/data/goods/cover/1583222906956089100.png",
+          "type": "Whiskey",
+          "abv": "40%",
+          "brand": "Kavalan",
+          "origin": "Taiwan",
+          "jpStores": [{ "name": "", "url": "" }],
+          "sgStores": [{ "name": "", "url": "" }]
+        },
+        {
+          "japaneseName": "",
+          "englishName": "Vertere Ardens IPA",
+          "image": "https://takekuma.co.jp/store/wp-content/uploads/2024/07/IMG_0337-scaled.jpg",
+          "type": "Beer",
+          "abv": "7%",
+          "brand": "Vertere",
+          "origin": "Okutama, Tokyo, Japan",
+          "jpStores": [{ "name": "", "url": "" }],
+          "sgStores": [{ "name": "", "url": "" }]
+        },
+        {
+          "japaneseName": "",
+          "englishName": "Vertere Scilla Blonde Ale",
+          "image": "https://takekuma.co.jp/store/wp-content/uploads/2024/06/IMG_0197-scaled.jpg",
+          "type": "Beer",
+          "abv": "5.5%",
+          "brand": "Vertere",
+          "origin": "Okutama, Tokyo, Japan",
           "jpStores": [{ "name": "", "url": "" }],
           "sgStores": [{ "name": "", "url": "" }]
         }
@@ -376,15 +409,31 @@
       "airDate": "2026-06-06",
       "alcohols": [
         {
-          "japaneseName": "",
-          "englishName": "",
-          "image": "",
-          "type": "",
-          "abv": "",
-          "brand": "",
-          "origin": "",
+          "japaneseName": "アルケミエ ファーストエッセンス ラベンダージン",
+          "englishName": "Alchemiae First Essence Lavender Gin",
+          "image": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/5e946e12cee9ea4be248804c/d9cd30139d47612c2951.jpeg/fit=cover,w=920,h=920",
+          "type": "Gin",
+          "abv": "45%",
+          "brand": "Alchemiae",
+          "origin": "Gujo Hachiman, Gifu, Japan",
           "jpStores": [{ "name": "", "url": "" }],
           "sgStores": [{ "name": "", "url": "" }]
+        },
+        {
+          "japaneseName": "",
+          "englishName": "Akkeshi Distillery's New Born Foundations 4",
+          "image": "https://www.theliquorshop.com.sg/cdn/shop/products/TheAkkeshiNewBornFoundation4_957x957.jpg?v=1630910174",
+          "type": "Whiskey",
+          "abv": "48%",
+          "brand": "Akkeshi",
+          "origin": "Akkeshi, Hokkaido, Japan",
+          "jpStores": [{ "name": "", "url": "" }],
+          "sgStores": [
+            {
+              "name": "The Liquor Shop (Singapore)",
+              "url": "https://www.theliquorshop.com.sg/products/the-akkeshi-new-born-foundation-4"
+            }
+          ]
         }
       ]
     },
@@ -395,14 +444,52 @@
       "alcohols": [
         {
           "japaneseName": "",
-          "englishName": "",
-          "image": "",
-          "type": "",
-          "abv": "",
-          "brand": "",
-          "origin": "",
+          "englishName": "Shinshu Absinthe Plain",
+          "image": "https://www.nomunication.jp/wp-content/uploads/2019/08/shinshuabsinthe-e1567059096237.jpeg",
+          "type": "Absinthe",
+          "abv": "55%",
+          "brand": "VinVie",
+          "origin": "Nagano (Shinshu), Japan",
           "jpStores": [{ "name": "", "url": "" }],
           "sgStores": [{ "name": "", "url": "" }]
+        },
+        {
+          "japaneseName": "",
+          "englishName": "SHIBUYA HAZY IPA",
+          "image": "https://img.toy-people.com/member/178197069347.png",
+          "type": "Beer",
+          "abv": "",
+          "brand": "GARCIABREWING Co.",
+          "origin": "Shizuoka, Japan (Garcia Brewing's home brewery; \"Shibuya\" is the beer's name/theme, not its brewing location)",
+          "jpStores": [{ "name": "", "url": "" }],
+          "sgStores": [{ "name": "", "url": "" }]
+        },
+        {
+          "japaneseName": "",
+          "englishName": "Violet Gin Soda",
+          "image": "https://img.toy-people.com/member/178197070346.png",
+          "type": "Cocktail",
+          "abv": "N/A",
+          "brand": "N/A",
+          "origin": "N.A. (no specific commercial product identified)",
+          "jpStores": [{ "name": "", "url": "" }],
+          "sgStores": [{ "name": "", "url": "" }]
+        },
+        {
+          "japaneseName": "百年の孤独",
+          "englishName": "Hyakunen no Kodoku Barley Shochu",
+          "image": "https://maltwineasia.com/wp-content/uploads/2022/07/Bottle-Kuroki-Honten-Hyakunen-no-Kodoku-Barley-Shochu.jpg",
+          "type": "Shochu",
+          "abv": "40%",
+          "brand": "Kuroki Honten (黒木本店)",
+          "origin": "Takachiho, Miyazaki, Japan",
+          "jpStores": [{ "name": "", "url": "" }],
+          "sgStores": [
+            {
+              "name": "Malt & Wine Asia",
+              "url": "https://maltwineasia.com/product/kuroki-honten-hyakunen-no-kodoku-barley-shochu/"
+            }
+          ]
         }
       ]
     },
@@ -412,13 +499,13 @@
       "airDate": "2026-06-20",
       "alcohols": [
         {
-          "japaneseName": "",
-          "englishName": "",
-          "image": "",
-          "type": "",
-          "abv": "",
-          "brand": "",
-          "origin": "",
+          "japaneseName": "新政 No.6 S-type",
+          "englishName": "Aramasa No. 6 Series S-Type",
+          "image": "https://cdn.shopify.com/s/files/1/0353/9510/9003/files/Aramasa_2_600x600.png?v=1723711099",
+          "type": "Sake",
+          "abv": "13%",
+          "brand": "Aramasa (新政酒造)",
+          "origin": "Akita, Japan",
           "jpStores": [{ "name": "", "url": "" }],
           "sgStores": [{ "name": "", "url": "" }]
         }
@@ -430,13 +517,24 @@
       "airDate": "2026-06-27",
       "alcohols": [
         {
-          "japaneseName": "",
-          "englishName": "",
-          "image": "",
-          "type": "",
-          "abv": "",
-          "brand": "",
-          "origin": "",
+          "japaneseName": "ぽんしゅ館",
+          "englishName": "Ponshukan",
+          "image": "https://discover-niigata.com/wp-content/uploads/2025/10/imgi_4_1.webp",
+          "type": "Store",
+          "abv": "N/A",
+          "brand": "Ponshukan (ぽんしゅ館)",
+          "origin": "Niigata, Japan",
+          "jpStores": [{ "name": "", "url": "" }],
+          "sgStores": [{ "name": "", "url": "" }]
+        },
+        {
+          "japaneseName": "めんこいみらい",
+          "englishName": "Custom-Distilled Authentic Kasutori Shochu Menko Mirai",
+          "image": "https://mag.marukome.co.jp/uploads/2022/12/uonumanosato13.jpg",
+          "type": "Shochu",
+          "abv": "40%",
+          "brand": "Hakkaisan Brewery (八海醸造)",
+          "origin": "Uonuma, Niigata, Japan",
           "jpStores": [{ "name": "", "url": "" }],
           "sgStores": [{ "name": "", "url": "" }]
         }
