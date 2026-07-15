@@ -1,4 +1,4 @@
-# sake-search
+# kamiina-lookup
 
 Terminal app that looks up every real-world alcohol referenced in a given episode of the anime *Botan Kamiina Fully Blossoms When Drunk* (上伊那ぼたん、酔へる姿は百合の花) — Japanese and English names, ABV, brand, origin, and where to buy it in Japan and Singapore. Built with Go.
 
